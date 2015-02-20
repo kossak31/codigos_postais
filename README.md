@@ -32,3 +32,5 @@ Just import the tables to Database
 
 4) Extract model files to the models folder in your Laravel Project
 
+#License
+Open Source suftware under [MIT License](http://opensource.org/licenses/MIT)
