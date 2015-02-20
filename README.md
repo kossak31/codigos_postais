@@ -1,18 +1,19 @@
-# Portugal Postal Codes
-# Códigos Postais de Portugal
+# Portugal Postal Codes / Códigos Postais de Portugal
 
 ## MySql / CSV / Laravel 4
 
 Updated Jan 2015
 
 * Countries
-* Distritos (Regions)
+* Distritos
 * Concelhos
 * Códigos Postais
 
-### MySql
+Address fields *not included*
 
-Just import the tables to Database
+### MySql / CSV
+
+Just import the table dumps to Database or CSV files to your project
 
 ### Laravel 4
 
