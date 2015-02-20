@@ -20,15 +20,15 @@ Just import the tables to Database
 
 2) Run Migrations
 
-´´´
+```
 	php artisan migrate
-´´´
+```
 
 3) Seed Tables
 
-´´´
+```
 	php artisan db:seed
-´´´
+```
 
 4) Extract model files to the models folder in your Laravel Project
 
