@@ -15,17 +15,7 @@ class Distrito extends \Eloquent {
 	/**
 	 * @var array
 	 */
-	protected $fillable = [
-		'country_id',
-		'name'
-	];
-
-	/**
-	 * @var array
-	 */
-	public static $rules = [
-		'name' 		 => 'required'
-	];
+	protected $fillable = ['name', 'country'];
 
 	/**
 	 * Set true if timestamps needed
@@ -34,4 +24,36 @@ class Distrito extends \Eloquent {
 	 */
 	public $timestamps = false;
 
+	/*
+	|--------------------------------------------------------------------------
+	| RELATIONSHIPS
+	|--------------------------------------------------------------------------
+	*/
+
+	/**
+	 * @return \Illuminate\Database\Eloquent\Relations\BelongsTo
+	 */
+	public function cp()
+	{
+		return $this
+			->belongsTo('CodigosPostais');
+	}
+
+	/**
+	 * @return \Illuminate\Database\Eloquent\Relations\HasOne
+	 */
+	public function countries()
+	{
+		return $this
+			->hasOne('Country', 'id', 'country');
+	}
+
+	/**
+	 * @return \Illuminate\Database\Eloquent\Relations\HasOne
+	 */
+	public function concelho()
+	{
+		return $this
+			->hasOne('Concelho');
+	}
 }

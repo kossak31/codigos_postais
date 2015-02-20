@@ -17,16 +17,9 @@ class Concelho extends \Eloquent {
 	 */
 	protected $fillable = [
 		'distrito_id',
+		'concelho_id',
 		'name',
 	];
-
-	/**
-	 * @var array
-	 */
-	public static $rules = [
-		'name' 	=> 'required'
-	];
-
 
 	/**
 	 * Set true if timestamps needed
@@ -35,4 +28,18 @@ class Concelho extends \Eloquent {
 	 */
 	public $timestamps = false;
 
+	/*
+	|--------------------------------------------------------------------------
+	| RELATIONSHIPS
+	|--------------------------------------------------------------------------
+	*/
+
+	/**
+	 * @return \Illuminate\Database\Eloquent\Relations\BelongsTo
+	 */
+	public function cp()
+	{
+		return $this
+			->belongsTo('CodigosPostais', 'concelho_id', 'concelho');
+	}
 }

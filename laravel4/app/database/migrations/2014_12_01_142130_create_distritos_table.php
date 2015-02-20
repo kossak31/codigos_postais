@@ -16,16 +16,15 @@ class CreateDistritosTable extends Migration {
 		{
 			$table
 				->increments    ('id');
-			/*$table
-				->integer       ('country_id')
+			$table
+				->integer       ('country')
 				->unsigned      ()
-				->index         ();*/
+				->index         ();
 			$table
 				->string        ('name', 100);
 
-			// uncomment below if timestamps needed. Remember to set timestamps to true on Model
-			/*$table
-				->timestamps    ();*/
+			$table
+				->timestamps    ();
 		});
 	}
 

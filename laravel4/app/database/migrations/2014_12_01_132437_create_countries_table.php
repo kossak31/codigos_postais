@@ -21,10 +21,9 @@ class CreateCountriesTable extends Migration {
 			$table
 				->string            ('country_code', 2)
 				->index             ();
-			
-			// uncomment below if timestamps needed. Remember to set timestamps to true on Model
-			/*$table
-				->timestamps        ();*/
+
+			$table
+				->timestamps        ();
 		});
 	}
 

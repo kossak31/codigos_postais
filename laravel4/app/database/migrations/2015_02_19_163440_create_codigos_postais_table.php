@@ -17,11 +17,11 @@ class CreateCodigosPostaisTable extends Migration {
 			$table
 				->increments('id');
 			$table
-				->integer('distrito_id')
+				->integer('distrito')
 				->unsigned()
 				->index();
 			$table
-				->integer('concelho_id')
+				->integer('concelho')
 				->unsigned()
 				->index();
 			$table

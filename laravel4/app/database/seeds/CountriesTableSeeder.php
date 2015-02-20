@@ -1,4 +1,5 @@
 <?php
+use Carbon\Carbon;
 
 class CountriesTableSeeder extends Seeder {
 
@@ -262,6 +263,8 @@ class CountriesTableSeeder extends Seeder {
 				[
 					'country_code'  => $c,
 			        'name'          => $v,
+			        'created_at'    => Carbon::now(),
+			        'updated_at'    => Carbon::now(),
 			    ]
 			);
 		}

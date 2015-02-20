@@ -1,5 +1,7 @@
 <?php
 
+use Carbon\Carbon;
+
 class DistritosTableSeeder extends Seeder {
 
 	public function run()
@@ -40,8 +42,10 @@ class DistritosTableSeeder extends Seeder {
 		foreach ($regs as $reg) {
 			Distrito::create(
 				[
-					'country_id'    => 184,
+					'country'    => 184,
 				    'name'          => $reg,
+				    'created_at'    => Carbon::now(),
+				    'updated_at'    => Carbon::now(),
 				]
 			);
 		}

@@ -26,10 +26,8 @@ class CreateConcelhosTable extends Migration {
 				->index         ();
 			$table
 				->string        ('name');
-				
-			// uncomment below if timestamps needed. Remember to set timestamps to true on Model
-			/*$table
-				->timestamps    ();*/
+			$table
+				->timestamps    ();
 		});
 	}
 
