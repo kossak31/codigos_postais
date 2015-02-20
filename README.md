@@ -24,13 +24,24 @@ Just import the tables to Database
 	php artisan migrate
 ```
 
-3) Seed Tables
+3) Open DatabaseSeeder.php and add the following lines:
+
+```
+	$this->call('CodigosPostaisTableSeeder');
+	$this->call('ConcelhosTableSeeder');
+	$this->call('DistritosTableSeeder');
+	$this->call('CountriesTableSeeder');
+```
+
+4) Seed Tables
+
+	Open DatabaseSeeder.php
 
 ```
 	php artisan db:seed
 ```
 
-4) Extract model files to the models folder in your Laravel Project
+5) Extract model files to the models folder in your Laravel Project
 
 #License
 Open Source software under [MIT License](http://opensource.org/licenses/MIT)
