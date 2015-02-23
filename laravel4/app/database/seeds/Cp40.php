@@ -23969,7 +23969,6 @@ class Cp40 extends Seeder {
 			),
 			494 => 
 			array (
-				'id' => 197995,
 				'distrito' => 49,
 				'concelho' => 1,
 				'cp' => '9980-33',
@@ -23978,7 +23977,6 @@ class Cp40 extends Seeder {
 			),
 			495 => 
 			array (
-				'id' => 197996,
 				'distrito' => 49,
 				'concelho' => 1,
 				'cp' => '9980-34',
@@ -23987,7 +23985,6 @@ class Cp40 extends Seeder {
 			),
 			496 => 
 			array (
-				'id' => 197997,
 				'distrito' => 49,
 				'concelho' => 1,
 				'cp' => '9980-35',
@@ -23996,7 +23993,6 @@ class Cp40 extends Seeder {
 			),
 			497 => 
 			array (
-				'id' => 197998,
 				'distrito' => 49,
 				'concelho' => 1,
 				'cp' => '9980-36',
@@ -24005,7 +24001,6 @@ class Cp40 extends Seeder {
 			),
 			498 => 
 			array (
-				'id' => 197999,
 				'distrito' => 49,
 				'concelho' => 1,
 				'cp' => '9980-37',
@@ -24014,7 +24009,6 @@ class Cp40 extends Seeder {
 			),
 			499 => 
 			array (
-				'id' => 198000,
 				'distrito' => 49,
 				'concelho' => 1,
 				'cp' => '9980-38',
@@ -24025,7 +24019,6 @@ class Cp40 extends Seeder {
 		\DB::table('codigos_postais')->insert(array (
 			0 => 
 			array (
-				'id' => 198001,
 				'distrito' => 49,
 				'concelho' => 1,
 				'cp' => '9980-39',
@@ -24034,7 +24027,6 @@ class Cp40 extends Seeder {
 			),
 			1 => 
 			array (
-				'id' => 198002,
 				'distrito' => 49,
 				'concelho' => 1,
 				'cp' => '9980-50',
@@ -24043,7 +24035,6 @@ class Cp40 extends Seeder {
 			),
 			2 => 
 			array (
-				'id' => 198003,
 				'distrito' => 49,
 				'concelho' => 1,
 				'cp' => '9980-60',
@@ -24052,7 +24043,6 @@ class Cp40 extends Seeder {
 			),
 			3 => 
 			array (
-				'id' => 198004,
 				'distrito' => 49,
 				'concelho' => 1,
 				'cp' => '9980-70',
@@ -24061,7 +24051,6 @@ class Cp40 extends Seeder {
 			),
 			4 => 
 			array (
-				'id' => 198005,
 				'distrito' => 49,
 				'concelho' => 1,
 				'cp' => '9980-999',

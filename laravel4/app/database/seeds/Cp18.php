@@ -16591,7 +16591,6 @@ class Cp18 extends Seeder {
 			),
 			72 => 
 			array (
-				'id' => 87073,
 				'distrito' => 1,
 				'concelho' => 13,
 				'cp' => '3720-862',
@@ -16600,7 +16599,6 @@ class Cp18 extends Seeder {
 			),
 			73 => 
 			array (
-				'id' => 87074,
 				'distrito' => 1,
 				'concelho' => 13,
 				'cp' => '3720-863',
@@ -16609,7 +16607,6 @@ class Cp18 extends Seeder {
 			),
 			74 => 
 			array (
-				'id' => 87075,
 				'distrito' => 1,
 				'concelho' => 13,
 				'cp' => '3720-864',
@@ -16618,7 +16615,6 @@ class Cp18 extends Seeder {
 			),
 			75 => 
 			array (
-				'id' => 87076,
 				'distrito' => 1,
 				'concelho' => 13,
 				'cp' => '3720-865',
@@ -16627,7 +16623,6 @@ class Cp18 extends Seeder {
 			),
 			76 => 
 			array (
-				'id' => 87077,
 				'distrito' => 1,
 				'concelho' => 13,
 				'cp' => '3720-866',
@@ -16636,7 +16631,6 @@ class Cp18 extends Seeder {
 			),
 			77 => 
 			array (
-				'id' => 87078,
 				'distrito' => 1,
 				'concelho' => 13,
 				'cp' => '3720-867',
@@ -16645,7 +16639,6 @@ class Cp18 extends Seeder {
 			),
 			78 => 
 			array (
-				'id' => 87079,
 				'distrito' => 1,
 				'concelho' => 13,
 				'cp' => '3720-868',
@@ -16654,7 +16647,6 @@ class Cp18 extends Seeder {
 			),
 			79 => 
 			array (
-				'id' => 87080,
 				'distrito' => 1,
 				'concelho' => 13,
 				'cp' => '3720-869',
@@ -16663,7 +16655,6 @@ class Cp18 extends Seeder {
 			),
 			80 => 
 			array (
-				'id' => 87081,
 				'distrito' => 1,
 				'concelho' => 13,
 				'cp' => '3720-87',
@@ -16672,7 +16663,6 @@ class Cp18 extends Seeder {
 			),
 			81 => 
 			array (
-				'id' => 87082,
 				'distrito' => 1,
 				'concelho' => 13,
 				'cp' => '3720-870',
@@ -16681,7 +16671,6 @@ class Cp18 extends Seeder {
 			),
 			82 => 
 			array (
-				'id' => 87083,
 				'distrito' => 1,
 				'concelho' => 13,
 				'cp' => '3720-871',
@@ -16690,7 +16679,6 @@ class Cp18 extends Seeder {
 			),
 			83 => 
 			array (
-				'id' => 87084,
 				'distrito' => 1,
 				'concelho' => 13,
 				'cp' => '3720-872',
@@ -16699,7 +16687,6 @@ class Cp18 extends Seeder {
 			),
 			84 => 
 			array (
-				'id' => 87085,
 				'distrito' => 1,
 				'concelho' => 13,
 				'cp' => '3720-873',
@@ -16708,7 +16695,6 @@ class Cp18 extends Seeder {
 			),
 			85 => 
 			array (
-				'id' => 87086,
 				'distrito' => 1,
 				'concelho' => 13,
 				'cp' => '3720-874',
@@ -16717,7 +16703,6 @@ class Cp18 extends Seeder {
 			),
 			86 => 
 			array (
-				'id' => 87087,
 				'distrito' => 1,
 				'concelho' => 13,
 				'cp' => '3720-875',
@@ -16726,7 +16711,6 @@ class Cp18 extends Seeder {
 			),
 			87 => 
 			array (
-				'id' => 87088,
 				'distrito' => 1,
 				'concelho' => 13,
 				'cp' => '3720-876',
@@ -16735,7 +16719,6 @@ class Cp18 extends Seeder {
 			),
 			88 => 
 			array (
-				'id' => 87089,
 				'distrito' => 1,
 				'concelho' => 13,
 				'cp' => '3720-877',
@@ -16744,7 +16727,6 @@ class Cp18 extends Seeder {
 			),
 			89 => 
 			array (
-				'id' => 87090,
 				'distrito' => 1,
 				'concelho' => 13,
 				'cp' => '3720-878',
@@ -16753,7 +16735,6 @@ class Cp18 extends Seeder {
 			),
 			90 => 
 			array (
-				'id' => 87091,
 				'distrito' => 1,
 				'concelho' => 13,
 				'cp' => '3720-879',
@@ -16762,7 +16743,6 @@ class Cp18 extends Seeder {
 			),
 			91 => 
 			array (
-				'id' => 87092,
 				'distrito' => 1,
 				'concelho' => 13,
 				'cp' => '3720-88',
@@ -16771,7 +16751,6 @@ class Cp18 extends Seeder {
 			),
 			92 => 
 			array (
-				'id' => 87093,
 				'distrito' => 1,
 				'concelho' => 13,
 				'cp' => '3720-880',
@@ -16780,7 +16759,6 @@ class Cp18 extends Seeder {
 			),
 			93 => 
 			array (
-				'id' => 87094,
 				'distrito' => 1,
 				'concelho' => 13,
 				'cp' => '3720-881',
@@ -16789,7 +16767,6 @@ class Cp18 extends Seeder {
 			),
 			94 => 
 			array (
-				'id' => 87095,
 				'distrito' => 1,
 				'concelho' => 13,
 				'cp' => '3720-882',
@@ -16798,7 +16775,6 @@ class Cp18 extends Seeder {
 			),
 			95 => 
 			array (
-				'id' => 87096,
 				'distrito' => 1,
 				'concelho' => 13,
 				'cp' => '3720-883',
@@ -16807,7 +16783,6 @@ class Cp18 extends Seeder {
 			),
 			96 => 
 			array (
-				'id' => 87097,
 				'distrito' => 1,
 				'concelho' => 13,
 				'cp' => '3720-885',
@@ -16816,7 +16791,6 @@ class Cp18 extends Seeder {
 			),
 			97 => 
 			array (
-				'id' => 87098,
 				'distrito' => 1,
 				'concelho' => 13,
 				'cp' => '3720-886',

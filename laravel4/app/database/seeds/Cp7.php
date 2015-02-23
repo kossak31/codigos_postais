@@ -31437,7 +31437,6 @@ class Cp7 extends Seeder {
 			),
 			427 => 
 			array (
-				'id' => 33928,
 				'distrito' => 11,
 				'concelho' => 1,
 				'cp' => '2580-661',
@@ -31446,7 +31445,6 @@ class Cp7 extends Seeder {
 			),
 			428 => 
 			array (
-				'id' => 33929,
 				'distrito' => 11,
 				'concelho' => 1,
 				'cp' => '2580-662',
@@ -31455,7 +31453,6 @@ class Cp7 extends Seeder {
 			),
 			429 => 
 			array (
-				'id' => 33930,
 				'distrito' => 11,
 				'concelho' => 1,
 				'cp' => '2580-663',
@@ -31464,7 +31461,6 @@ class Cp7 extends Seeder {
 			),
 			430 => 
 			array (
-				'id' => 33931,
 				'distrito' => 11,
 				'concelho' => 1,
 				'cp' => '2580-665',
@@ -31473,7 +31469,6 @@ class Cp7 extends Seeder {
 			),
 			431 => 
 			array (
-				'id' => 33932,
 				'distrito' => 11,
 				'concelho' => 1,
 				'cp' => '2580-666',
@@ -31482,7 +31477,6 @@ class Cp7 extends Seeder {
 			),
 			432 => 
 			array (
-				'id' => 33933,
 				'distrito' => 11,
 				'concelho' => 1,
 				'cp' => '2580-667',
@@ -31491,7 +31485,6 @@ class Cp7 extends Seeder {
 			),
 			433 => 
 			array (
-				'id' => 33934,
 				'distrito' => 11,
 				'concelho' => 1,
 				'cp' => '2580-67',
@@ -31500,7 +31493,6 @@ class Cp7 extends Seeder {
 			),
 			434 => 
 			array (
-				'id' => 33935,
 				'distrito' => 11,
 				'concelho' => 1,
 				'cp' => '2580-68',
@@ -31509,7 +31501,6 @@ class Cp7 extends Seeder {
 			),
 			435 => 
 			array (
-				'id' => 33936,
 				'distrito' => 11,
 				'concelho' => 1,
 				'cp' => '2580-69',
@@ -31518,7 +31509,6 @@ class Cp7 extends Seeder {
 			),
 			436 => 
 			array (
-				'id' => 33937,
 				'distrito' => 11,
 				'concelho' => 1,
 				'cp' => '2580-7',
@@ -31527,7 +31517,6 @@ class Cp7 extends Seeder {
 			),
 			437 => 
 			array (
-				'id' => 33938,
 				'distrito' => 11,
 				'concelho' => 1,
 				'cp' => '2580-70',
@@ -31536,7 +31525,6 @@ class Cp7 extends Seeder {
 			),
 			438 => 
 			array (
-				'id' => 33939,
 				'distrito' => 11,
 				'concelho' => 1,
 				'cp' => '2580-73',
@@ -31545,7 +31533,6 @@ class Cp7 extends Seeder {
 			),
 			439 => 
 			array (
-				'id' => 33940,
 				'distrito' => 11,
 				'concelho' => 1,
 				'cp' => '2580-74',
@@ -31554,7 +31541,6 @@ class Cp7 extends Seeder {
 			),
 			440 => 
 			array (
-				'id' => 33941,
 				'distrito' => 11,
 				'concelho' => 1,
 				'cp' => '2580-75',
@@ -31563,7 +31549,6 @@ class Cp7 extends Seeder {
 			),
 			441 => 
 			array (
-				'id' => 33942,
 				'distrito' => 11,
 				'concelho' => 1,
 				'cp' => '2580-77',
@@ -31572,7 +31557,6 @@ class Cp7 extends Seeder {
 			),
 			442 => 
 			array (
-				'id' => 33943,
 				'distrito' => 11,
 				'concelho' => 1,
 				'cp' => '2580-78',
@@ -31581,7 +31565,6 @@ class Cp7 extends Seeder {
 			),
 			443 => 
 			array (
-				'id' => 33944,
 				'distrito' => 11,
 				'concelho' => 1,
 				'cp' => '2580-8',
@@ -31590,7 +31573,6 @@ class Cp7 extends Seeder {
 			),
 			444 => 
 			array (
-				'id' => 33945,
 				'distrito' => 11,
 				'concelho' => 1,
 				'cp' => '2580-80',
@@ -31599,7 +31581,6 @@ class Cp7 extends Seeder {
 			),
 			445 => 
 			array (
-				'id' => 33946,
 				'distrito' => 11,
 				'concelho' => 1,
 				'cp' => '2580-81',
@@ -31608,7 +31589,6 @@ class Cp7 extends Seeder {
 			),
 			446 => 
 			array (
-				'id' => 33947,
 				'distrito' => 11,
 				'concelho' => 1,
 				'cp' => '2580-82',
@@ -31617,7 +31597,6 @@ class Cp7 extends Seeder {
 			),
 			447 => 
 			array (
-				'id' => 33948,
 				'distrito' => 11,
 				'concelho' => 1,
 				'cp' => '2580-83',
@@ -31626,7 +31605,6 @@ class Cp7 extends Seeder {
 			),
 			448 => 
 			array (
-				'id' => 33949,
 				'distrito' => 11,
 				'concelho' => 1,
 				'cp' => '2580-84',
@@ -31635,7 +31613,6 @@ class Cp7 extends Seeder {
 			),
 			449 => 
 			array (
-				'id' => 33950,
 				'distrito' => 11,
 				'concelho' => 1,
 				'cp' => '2580-85',
@@ -31644,7 +31621,6 @@ class Cp7 extends Seeder {
 			),
 			450 => 
 			array (
-				'id' => 33951,
 				'distrito' => 11,
 				'concelho' => 1,
 				'cp' => '2580-86',
@@ -31653,7 +31629,6 @@ class Cp7 extends Seeder {
 			),
 			451 => 
 			array (
-				'id' => 33952,
 				'distrito' => 11,
 				'concelho' => 1,
 				'cp' => '2580-87',
@@ -31662,7 +31637,6 @@ class Cp7 extends Seeder {
 			),
 			452 => 
 			array (
-				'id' => 33953,
 				'distrito' => 11,
 				'concelho' => 1,
 				'cp' => '2580-88',
@@ -31671,7 +31645,6 @@ class Cp7 extends Seeder {
 			),
 			453 => 
 			array (
-				'id' => 33954,
 				'distrito' => 11,
 				'concelho' => 1,
 				'cp' => '2580-89',
@@ -31680,7 +31653,6 @@ class Cp7 extends Seeder {
 			),
 			454 => 
 			array (
-				'id' => 33955,
 				'distrito' => 11,
 				'concelho' => 1,
 				'cp' => '2580-9',
@@ -31689,7 +31661,6 @@ class Cp7 extends Seeder {
 			),
 			455 => 
 			array (
-				'id' => 33956,
 				'distrito' => 11,
 				'concelho' => 1,
 				'cp' => '2580-90',
@@ -31698,7 +31669,6 @@ class Cp7 extends Seeder {
 			),
 			456 => 
 			array (
-				'id' => 33957,
 				'distrito' => 11,
 				'concelho' => 1,
 				'cp' => '2580-91',
@@ -31707,7 +31677,6 @@ class Cp7 extends Seeder {
 			),
 			457 => 
 			array (
-				'id' => 33958,
 				'distrito' => 11,
 				'concelho' => 1,
 				'cp' => '2580-92',
@@ -31716,7 +31685,6 @@ class Cp7 extends Seeder {
 			),
 			458 => 
 			array (
-				'id' => 33959,
 				'distrito' => 11,
 				'concelho' => 1,
 				'cp' => '2580-93',
@@ -31725,7 +31693,6 @@ class Cp7 extends Seeder {
 			),
 			459 => 
 			array (
-				'id' => 33960,
 				'distrito' => 11,
 				'concelho' => 1,
 				'cp' => '2580-94',
@@ -31734,7 +31701,6 @@ class Cp7 extends Seeder {
 			),
 			460 => 
 			array (
-				'id' => 33961,
 				'distrito' => 11,
 				'concelho' => 1,
 				'cp' => '2580-95',
@@ -31743,7 +31709,6 @@ class Cp7 extends Seeder {
 			),
 			461 => 
 			array (
-				'id' => 33962,
 				'distrito' => 11,
 				'concelho' => 1,
 				'cp' => '2580-96',
@@ -31752,7 +31717,6 @@ class Cp7 extends Seeder {
 			),
 			462 => 
 			array (
-				'id' => 33963,
 				'distrito' => 11,
 				'concelho' => 1,
 				'cp' => '2580-97',
@@ -31761,7 +31725,6 @@ class Cp7 extends Seeder {
 			),
 			463 => 
 			array (
-				'id' => 33964,
 				'distrito' => 11,
 				'concelho' => 1,
 				'cp' => '2580-98',
@@ -31770,7 +31733,6 @@ class Cp7 extends Seeder {
 			),
 			464 => 
 			array (
-				'id' => 33965,
 				'distrito' => 11,
 				'concelho' => 1,
 				'cp' => '2580-99',
@@ -31779,7 +31741,6 @@ class Cp7 extends Seeder {
 			),
 			465 => 
 			array (
-				'id' => 33966,
 				'distrito' => 11,
 				'concelho' => 1,
 				'cp' => '2580-994',
@@ -31788,7 +31749,6 @@ class Cp7 extends Seeder {
 			),
 			466 => 
 			array (
-				'id' => 33967,
 				'distrito' => 11,
 				'concelho' => 1,
 				'cp' => '2580-995',

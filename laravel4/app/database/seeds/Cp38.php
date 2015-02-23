@@ -4193,7 +4193,6 @@ class Cp38 extends Seeder {
 			),
 			23 => 
 			array (
-				'id' => 185524,
 				'distrito' => 8,
 				'concelho' => 6,
 				'cp' => '8400-484',

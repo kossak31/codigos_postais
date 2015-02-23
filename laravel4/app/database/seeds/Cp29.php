@@ -903,7 +903,6 @@ class Cp29 extends Seeder {
 			),
 			112 => 
 			array (
-				'id' => 140113,
 				'distrito' => 3,
 				'concelho' => 8,
 				'cp' => '4810-233',
@@ -912,7 +911,6 @@ class Cp29 extends Seeder {
 			),
 			113 => 
 			array (
-				'id' => 140114,
 				'distrito' => 3,
 				'concelho' => 8,
 				'cp' => '4810-234',
@@ -921,7 +919,6 @@ class Cp29 extends Seeder {
 			),
 			114 => 
 			array (
-				'id' => 140115,
 				'distrito' => 3,
 				'concelho' => 8,
 				'cp' => '4810-235',
@@ -930,7 +927,6 @@ class Cp29 extends Seeder {
 			),
 			115 => 
 			array (
-				'id' => 140116,
 				'distrito' => 3,
 				'concelho' => 8,
 				'cp' => '4810-236',
@@ -939,7 +935,6 @@ class Cp29 extends Seeder {
 			),
 			116 => 
 			array (
-				'id' => 140117,
 				'distrito' => 3,
 				'concelho' => 8,
 				'cp' => '4810-237',
@@ -948,7 +943,6 @@ class Cp29 extends Seeder {
 			),
 			117 => 
 			array (
-				'id' => 140118,
 				'distrito' => 3,
 				'concelho' => 8,
 				'cp' => '4810-238',
@@ -957,7 +951,6 @@ class Cp29 extends Seeder {
 			),
 			118 => 
 			array (
-				'id' => 140119,
 				'distrito' => 3,
 				'concelho' => 8,
 				'cp' => '4810-239',
@@ -966,7 +959,6 @@ class Cp29 extends Seeder {
 			),
 			119 => 
 			array (
-				'id' => 140120,
 				'distrito' => 3,
 				'concelho' => 8,
 				'cp' => '4810-24',
@@ -975,7 +967,6 @@ class Cp29 extends Seeder {
 			),
 			120 => 
 			array (
-				'id' => 140121,
 				'distrito' => 3,
 				'concelho' => 8,
 				'cp' => '4810-240',
@@ -984,7 +975,6 @@ class Cp29 extends Seeder {
 			),
 			121 => 
 			array (
-				'id' => 140122,
 				'distrito' => 3,
 				'concelho' => 8,
 				'cp' => '4810-242',
@@ -993,7 +983,6 @@ class Cp29 extends Seeder {
 			),
 			122 => 
 			array (
-				'id' => 140123,
 				'distrito' => 3,
 				'concelho' => 8,
 				'cp' => '4810-245',
@@ -1002,7 +991,6 @@ class Cp29 extends Seeder {
 			),
 			123 => 
 			array (
-				'id' => 140124,
 				'distrito' => 3,
 				'concelho' => 8,
 				'cp' => '4810-246',
@@ -1011,7 +999,6 @@ class Cp29 extends Seeder {
 			),
 			124 => 
 			array (
-				'id' => 140125,
 				'distrito' => 3,
 				'concelho' => 8,
 				'cp' => '4810-247',
@@ -1020,7 +1007,6 @@ class Cp29 extends Seeder {
 			),
 			125 => 
 			array (
-				'id' => 140126,
 				'distrito' => 3,
 				'concelho' => 8,
 				'cp' => '4810-25',
